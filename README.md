@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Taek's blog 
 
-You can use the [editor on GitHub](https://github.com/karisther/karisther.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can see [my resume](https://karisther.github.io/online_cv/) if you are intreted in who I am and what kind of study I am doing.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
