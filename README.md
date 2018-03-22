@@ -2,7 +2,7 @@
 
 Hello! Nice to meet you here. This blog is for logging Taek's research, idea, and life. Have a fun!
 
-### My Resume
+### My Research
 You can see [my resume](https://karisther.github.io/online_cv/) if you are intreted in who I am and what kind of study I am doing.
 
 
