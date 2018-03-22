@@ -1,6 +1,21 @@
 ## Welcome to Taek's blog 
 
+Hello! Nice to meet you here. This blog is for logging Taek's research, idea, and life. Have a fun!
+
+### My Resume
 You can see [my resume](https://karisther.github.io/online_cv/) if you are intreted in who I am and what kind of study I am doing.
+
+
+### My Life
+My life is exiting because of my two kids. They are making hilarious episodes everyday.
+I love cooking!
+
+
+### My Ideas
+My ideas on education, politics, Gospel, etc.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
